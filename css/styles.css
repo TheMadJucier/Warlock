@@ -1,0 +1,166 @@
+/***************************ids********************************/
+#head {
+  background-color: #EAF6F6;
+  color: black;
+  position: relative;
+  padding-top: 150px;
+}
+
+#middle{
+background-color: #eeeeee;
+width: 100%;
+}
+
+#bottom {
+  color: #11999E;
+  font-size: 2rem;
+  background-color: #66BFBF;
+
+
+}
+#vanguard{
+  width: 350px;
+  position: relative;
+  margin: 100px auto 100px auto;
+  padding-right: 30px;
+  float: left;
+
+
+}
+#crucible{
+  width: 25%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  float: right;
+  padding-left: 30px;
+}
+#Skills-margin{
+  margin: 0;
+}
+
+#last-text{
+  margin-bottom: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+
+/**************************Normal Elements*********************************/
+/* the margin-(all ans T) are measured in pixles(px),
+although not specified in live code */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'BenchNine', sans-serif;
+  font-size: 200%;
+  background-color: #eeeeee;
+}
+hr{
+  border-style: dotted none none;
+  width: 7%;
+  border-color: grey;
+  border-width: 10px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  color: #66BFBF;
+  padding: 0;
+
+}
+
+h2 {
+  font-family: 'Suranna', serif;
+  font-size: 3.5rem;
+  color: #66BFBF;
+  padding: 0;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Suranna', serif;
+  color: #11999E;
+  font-size: 1.5rem;
+  padding: 30px;;
+  margin: 0;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+
+
+/**************************Divs*********************************/
+.Skills{
+  margin-bottom: 0;
+  /*background-color: pink;*/
+}
+.left-skill{
+  position: relative;
+  left: 400px;
+  width: 50%;
+  /* background-color: blue;*/
+  margin: 15 auto;
+}
+.right-skill{
+  position: relative;
+  left: 400px;
+  /*background-color: orange;*/
+  width: 50%;
+  margin: 15 auto;
+
+
+}
+
+/**************************Classes*********************************/
+.defender{
+  text-decoration: underline;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+
+.Storm {
+  width: 400px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.Iron {
+  position: absolute;
+  width: 200px;
+  right: 400px;
+  top: 20px;
+}
+
+.VWarlock {
+  position: absolute;
+  width: 200px;
+  left: 400px;
+  top: 20px;
+}
+
+.footer-link{
+  color: #11999E;
+  font-size: 0.9rem;
+}
+.Skillsp{
+  text-align: left;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  line-height: 2;
+  width: 109%;
+}
+.btn{
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  background-color: #66BFBF;
+  margin-bottom: 50px;
+  border-radius: 12px;
+}

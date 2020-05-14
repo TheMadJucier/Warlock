@@ -1,0 +1,27 @@
+/*C:\Users\wsimo\OneDrive\Documents\Web Devolopment\CSS--MySite\positioning.css*/
+img{
+  height: 300px;
+  border: solid orange;
+  position: relative;
+  left: 100px;
+  top: 100px;
+  background: #94DDFD;
+  display: block;
+  padding: 30px;
+  margin-top: 10px;
+
+
+}
+
+.jelly{
+  height: 264px;
+}
+.dark{
+  height: 260px;
+}
+body{
+  background-color: black;
+}
+p{
+  color: antiquewhite;
+}
